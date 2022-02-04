@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "welcome to our second slide "
+title: "Hi, Welcome"
 ---
 It was nice meeting you! 
